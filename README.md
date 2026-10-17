@@ -7,17 +7,11 @@
 </div>
 
 ## 👤 経歴
-> [!NOTE]
-> **🏢 2021 – 2025｜株式会社富士通エフサス**<br>
-> SIerとしてインフラPM（要件定義〜運用保守）
+![](https://capsule-render.vercel.app/api?type=rect&color=0b5394&height=90&fontColor=ffffff&fontSize=24&fontAlignY=35&descSize=16&descAlignY=70&text=🏢%202021%20-%202025%20｜%20株式会社富士通エフサス&desc=SIerとしてインフラPM（要件定義〜運用保守）)
 
-> [!IMPORTANT]
-> **🎓 2025 –｜42 Tokyo**<br>
-> C / Python を中心にピアラーニングで学習
+![](https://capsule-render.vercel.app/api?type=rect&color=00babc&height=90&fontColor=ffffff&fontSize=24&fontAlignY=35&descSize=16&descAlignY=70&text=🎓%202025%20-%20｜%2042%20Tokyo&desc=C%20%2F%20Python%20を中心にピアラーニングで学習)
 
-> [!TIP]
-> **🤖 2026（4ヶ月）｜AutoAIze株式会社（業務委託）**<br>
-> AI業務自動化の受託開発・展示会・商談
+![](https://capsule-render.vercel.app/api?type=rect&color=8e44ad&height=90&fontColor=ffffff&fontSize=24&fontAlignY=35&descSize=16&descAlignY=70&text=🤖%202026（4ヶ月）｜%20AutoAIze株式会社（業務委託）&desc=AI業務自動化の受託開発・展示会・商談)
 
 
 ## 🛠 Skills
