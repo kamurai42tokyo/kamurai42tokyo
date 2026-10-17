@@ -7,16 +7,12 @@
 </div>
 
 ## 👤 経歴
-```mermaid
-gantt
-    dateFormat YYYY-MM
-    axisFormat %Y
-    section 職歴
-    富士通エフサス（インフラPM） :2021-04, 2025-03
-    AutoAIze（業務委託）        :2026-04, 2026-07
-    section 学習
-    42 Tokyo                   :2025-04, 2026-10
-```
+🏢 **2021 – 2025**　株式会社富士通エフサス
+　└ SIerとしてインフラPM（要件定義〜運用保守）
+🎓 **2025 –**　42 Tokyo
+　└ C / Python を中心にピアラーニングで学習
+🤖 **2026（4ヶ月）**　AutoAIze株式会社（業務委託）
+　└ AI業務自動化の受託開発・展示会・商談
 
 
 ## 🛠 Skills
