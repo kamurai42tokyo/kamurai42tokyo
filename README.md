@@ -17,11 +17,6 @@
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=c,py,js,ts,html,css,linux,bash,git,github,vscode" />
 
-## 💪 強み
-- **インフラ × アプリの両方の経験**：インフラの実務とアプリ開発の学習の両方があるから、システムのどの層にも抵抗なく取り組めます
-- **Webアプリの公開経験**：Python学習クイズや Black Hole 逆算ツールなどを [AppLab](https://kamurai42tokyo.github.io) で公開中
-- **ピアラーニング**：42 Tokyo で、学生同士のコードレビューや教え合いを日常的にやっています
-- **これから**：特定の技術領域で、代わりのきかない専門性を身につけることを目指しています
 
 ## 📜 資格
 - CCNA（Cisco Certified Network Associate）
