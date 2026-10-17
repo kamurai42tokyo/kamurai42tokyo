@@ -7,11 +7,26 @@
 </div>
 
 ## 👤 経歴
-- 【20XX年〜】【前職・学歴など】
-- 2025年〜 42 Tokyo 在籍（Common Core）
+| 期間 | 所属 | 内容 |
+|---|---|---|
+| 2021–2025 | 株式会社富士通エフサス | SIerとしてシステムインフラのPMを担当。要件定義〜設計・構築・テスト〜運用保守まで一貫して経験 |
+| 2025– | 42 Tokyo | 講師なし・ピアラーニング型のエンジニア養成機関で、C / Python を中心に学習中 |
+| 2026（4ヶ月） | AutoAIze株式会社（業務委託） | AIを活用した業務自動化の受託開発。展示会出展・顧客との商談も担当 |
+
 
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=c,py,js,ts,html,css,linux,bash,git,github,vscode" />
+## 💪 強み
+- **インフラ × アプリの両方の経験**：インフラの実務とアプリ開発の学習の両方があるから、システムのどの層にも抵抗なく取り組めます
+- **Webアプリの公開経験**：Python学習クイズや Black Hole 逆算ツールなどを [AppLab](https://kamurai42tokyo.github.io) で公開中
+- **ピアラーニング**：42 Tokyo で、学生同士のコードレビューや教え合いを日常的にやっています
+- **これから**：特定の技術領域で、代わりのきかない専門性を身につけることを目指しています
+
+## 📜 資格
+- CCNA（Cisco Certified Network Associate）
+- AWS Certified Cloud Practitioner
+- Microsoft Certified: Azure Fundamentals（AZ-900）
+
 
 ## 🏫 42 Tokyo Projects
 | Milestone | Project | 内容 | 言語 |
