@@ -26,18 +26,19 @@
 
 
 ## 🏫 42 Tokyo Projects
-| Milestone | Project | 内容 | 言語 |
-|---|---|---|---|
-| 0 | Libft | C標準ライブラリ関数の再実装 | C |
-| 1 | ft_printf | printf の再実装 | C |
-| 1 | get_next_line | ファイルを1行ずつ読む関数 | C |
-| 1 | Born2beroot | 仮想マシンでLinuxサーバー構築 | Linux |
-| 2 | push_swap | 2つのスタックを使ったソート | C |
-| 2 | A-Maze-ing | 迷路の生成 | Python |
-| 2 | Python Module 00–10 | Python基礎モジュール | Python |
-| 3 | Fly-in | ドローンを最少ターンで届けるシミュレータ | Python |
-| 3 | [Call Me Maybe](https://github.com/kamurai42tokyo/Call_Me_Maybe) | LLMの関数呼び出し（constrained decoding） | Python |
-| 3 | [Codexion](https://github.com/kamurai42tokyo/Codexion) | マルチスレッドの資源競合シミュレータ | C |
+| カテゴリ | Project | 内容 | 言語 |
+|:---|:---|:---|:---|
+| 🧱 **C言語の基礎** | Libft | C標準ライブラリ関数の再実装 | C |
+| | ft_printf | printf の再実装 | C |
+| | get_next_line | ファイルを1行ずつ読む関数 | C |
+| 🧮 **アルゴリズム** | push_swap | 2つのスタックを使ったソート | C |
+| | A-Maze-ing | 迷路の生成 | Python |
+| | Fly-in | ドローンを最少ターンで届けるシミュレータ | Python |
+| ⚙️ **並行処理** | [Codexion](https://github.com/kamurai42tokyo/Codexion) | マルチスレッドの資源競合シミュレータ | C |
+| 🤖 **AI / LLM** | [Call Me Maybe](https://github.com/kamurai42tokyo/Call_Me_Maybe) | LLMの関数呼び出し（constrained decoding） | Python |
+| 🐍 **Python** | Python Module 00–10 | Python基礎モジュール | Python |
+| 🖥 **インフラ / Linux** | Born2beroot | 仮想マシンでLinuxサーバー構築 | Linux |
+
 
 ## 🌐 AppLab
 自作アプリの起動ハブ 👉 **[Kamurai's AppLab](https://kamurai42tokyo.github.io)**
