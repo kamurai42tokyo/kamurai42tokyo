@@ -26,18 +26,19 @@
 
 
 ## 🏫 42 Tokyo Projects
-| カテゴリ | Project | 内容 | 言語 |
-|:---|:---|:---|:---|
-| 🧱 **C言語の基礎** | Libft | C標準ライブラリ関数の再実装 | C |
-| | ft_printf | printf の再実装 | C |
-| | get_next_line | ファイルを1行ずつ読む関数 | C |
-| 🧮 **アルゴリズム** | push_swap | 2つのスタックを使ったソート | C |
-| | A-Maze-ing | 迷路の生成 | Python |
-| | Fly-in | ドローンを最少ターンで届けるシミュレータ | Python |
-| ⚙️ **並行処理** | [Codexion](https://github.com/kamurai42tokyo/Codexion) | マルチスレッドの資源競合シミュレータ | C |
-| 🤖 **AI / LLM** | [Call Me Maybe](https://github.com/kamurai42tokyo/Call_Me_Maybe) | LLMの関数呼び出し（constrained decoding） | Python |
-| 🐍 **Python** | Python Module 00–10 | Python基礎モジュール | Python |
-| 🖥 **インフラ / Linux** | Born2beroot | 仮想マシンでLinuxサーバー構築 | Linux |
+<table>
+  <tr><th>カテゴリ</th><th>Project</th><th>内容</th><th>言語</th></tr>
+  <tr><td rowspan="3">🧱 <b>C言語の基礎</b></td><td>Libft</td><td>C標準ライブラリ関数の再実装</td><td>C</td></tr>
+  <tr><td>ft_printf</td><td>printf の再実装</td><td>C</td></tr>
+  <tr><td>get_next_line</td><td>ファイルを1行ずつ読む関数</td><td>C</td></tr>
+  <tr><td rowspan="3">🧮 <b>アルゴリズム</b></td><td>push_swap</td><td>2つのスタックを使ったソート</td><td>C</td></tr>
+  <tr><td>A-Maze-ing</td><td>迷路の生成</td><td>Python</td></tr>
+  <tr><td>Fly-in</td><td>ドローンを最少ターンで届けるシミュレータ</td><td>Python</td></tr>
+  <tr><td>⚙️ <b>並行処理</b></td><td><a href="https://github.com/kamurai42tokyo/Codexion">Codexion</a></td><td>マルチスレッドの資源競合シミュレータ</td><td>C</td></tr>
+  <tr><td>🤖 <b>AI / LLM</b></td><td><a href="https://github.com/kamurai42tokyo/Call_Me_Maybe">Call Me Maybe</a></td><td>LLMの関数呼び出し（constrained decoding）</td><td>Python</td></tr>
+  <tr><td>🐍 <b>Python</b></td><td>Python Module 00–10</td><td>Python基礎モジュール</td><td>Python</td></tr>
+  <tr><td>🖥 <b>インフラ / Linux</b></td><td>Born2beroot</td><td>仮想マシンでLinuxサーバー構築</td><td>Linux</td></tr>
+</table>
 
 
 ## 🌐 AppLab
