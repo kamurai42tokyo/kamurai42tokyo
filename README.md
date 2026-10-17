@@ -8,10 +8,14 @@
 
 ## 👤 経歴
 ```mermaid
-timeline
-    2021 : 富士通エフサス入社 : インフラPM
-    2025 : 42 Tokyo 入学
-    2026 : AutoAIze 業務委託 : AI業務自動化
+gantt
+    dateFormat YYYY-MM
+    axisFormat %Y
+    section 職歴
+    富士通エフサス（インフラPM） :2021-04, 【2025-03】
+    AutoAIze（業務委託）        :【2026-04】, 【2026-07】
+    section 学習
+    42 Tokyo                   :【2025-04】, 2026-10
 ```
 
 
