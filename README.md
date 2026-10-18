@@ -40,8 +40,6 @@
   <tr><td rowspan="3">🧮 <b>アルゴリズム</b></td><td>push_swap</td><td>2つのスタックを使ったソート</td><td>C</td></tr>
   <tr><td>A-Maze-ing</td><td>迷路の生成</td><td>Python</td></tr>
   <tr><td>Fly-in</td><td>ドローンを最少ターンで届けるシミュレータ</td><td>Python</td></tr>
-  <tr><td>⚙️ <b>並行処理</b></td><td><a href="https://github.com/kamurai42tokyo/Codexion">Codexion</a></td><td>マルチスレッドの資源競合シミュレータ</td><td>C</td></tr>
-  <tr><td>🤖 <b>AI / LLM</b></td><td><a href="https://github.com/kamurai42tokyo/Call_Me_Maybe">Call Me Maybe</a></td><td>LLMの関数呼び出し（constrained decoding）</td><td>Python</td></tr>
   <tr><td>🐍 <b>Python</b></td><td>Python Module 00–10</td><td>Python基礎モジュール</td><td>Python</td></tr>
   <tr><td>🖥 <b>インフラ / Linux</b></td><td>Born2beroot</td><td>仮想マシンでLinuxサーバー構築</td><td>Linux</td></tr>
 </table>
