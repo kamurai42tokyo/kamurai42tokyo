@@ -16,7 +16,11 @@
 
 
 ## 🛠 Skills
-<img src="https://skillicons.dev/icons?i=c,py,js,ts,html,css,linux,bash,git,github,vscode" />
+| カテゴリ | スキル |
+|:---|:---|
+| 💻 **言語** | <img src="https://skillicons.dev/icons?i=c,py" height="40" /> |
+| 🖥 **OS / シェル** | <img src="https://skillicons.dev/icons?i=linux,windows,bash" height="40" /> |
+| 🔧 **開発ツール** | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" /> |
 
 
 ## 📜 資格
