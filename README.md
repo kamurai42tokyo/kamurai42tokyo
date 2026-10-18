@@ -19,7 +19,12 @@
 | カテゴリ | スキル |
 |:---|:---|
 | 💻 **言語** | <img src="https://skillicons.dev/icons?i=c,py" height="40" /> |
-| 🖥 **OS / シェル** | <img src="https://skillicons.dev/icons?i=linux,windows,bash" height="40" /> |
+| ☁️ **クラウド** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="40" /> |
+| 🖥 **OS** | <img src="https://skillicons.dev/icons?i=linux,redhat,debian,windows" height="40" /> |
+| ⌨️ **スクリプト** | <img src="https://skillicons.dev/icons?i=bash,powershell" height="40" /> |
+| 📦 **コンテナ** | <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="40" /> |
+| 🌐 **ネットワーク** | Cisco機器の設定（ルーター・スイッチ）、TCP/IP、VLAN |
+| 🗄 **仮想化** | VMware vSphere、Hyper-V |
 | 🔧 **開発ツール** | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" /> |
 
 
